@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppComponent } from './app.component';
-import { CompanyModule } from '../../projects/company';
+import { CompanyModule } from '../../projects/company/src/lib';
 
 import { DemoMaterialModule } from './demo-module/demo-material.module';
 import { HttpClientModule } from '@angular/common/http';
